@@ -2,7 +2,8 @@
 This repository contaions **simulations** and **reports** related to **signal processing** using **Python, MATLAB and GNUradio companion using USRP.**
 
 ### Simulations:
-   - [Live Video Transmission using GNUradio, USRP and VLC player] (https://github.com/pintuiitbhi/wireless-communications/blob/master/Video%20Transmission/video%20transmission.grc)
+   - [Live Video Transmission using GNUradio, USRP and VLC player](https://github.com/pintuiitbhi/wireless-communications/blob/master/Video%20Transmission/video%20transmission.grc)
+   
      [Report file] (https://github.com/pintuiitbhi/wireless-communications/blob/master/Video%20Transmission/Video%20Transmission%20using%20GNUradio%20%26%20%20USRP%20.pdf)
       
    - [Audio Transmission using GNUradio and USRP] (https://github.com/pintuiitbhi/wireless-communications/blob/master/Audio%20Transmission.pdf)
