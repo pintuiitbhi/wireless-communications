@@ -44,4 +44,8 @@ This repository contaions **simulations** and **reports** related to **wirelss s
    - [FM, PM, Uniform Quantization, Sampling](https://github.com/pintuiitbhi/wireless-communications/blob/master/Assignments/simulations_02/simulations.rar)
 
 
-> I like to thank @Rudrashish Pal, @Sharad Roy, @Siddharth Jain for their contributions in some of the simulations and projects listed above
+> I like to thank **Rudrashish Pal , Sharad Roy, Siddharth Jain** for their contributions in some of the simulations and projects listed above.
+
+1. Rudrashish Pal (Btech Electrical Engineering Student)
+2. Sharad Roy     (Btech Electrical Engineering Student) 
+3. Siddharth Jain (Btech Electrical Engineering Student)
