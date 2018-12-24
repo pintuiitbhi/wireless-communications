@@ -25,7 +25,9 @@ This repository contaions **simulations** and **reports** related to **wirelss s
     
    - GMSK Modulation using GNUradio
    
-        [Text transmission](https://github.com/pintuiitbhi/wireless-communications/blob/master/GMSK%20modulation/gmsk_text.grc)       [Video transmission](https://github.com/pintuiitbhi/wireless-communications/blob/master/GMSK%20modulation/gmsk_video.grc)
+       1. [Text transmission](https://github.com/pintuiitbhi/wireless-communications/blob/master/GMSK%20modulation/gmsk_text.grc)     
+       
+       2. [Video transmission](https://github.com/pintuiitbhi/wireless-communications/blob/master/GMSK%20modulation/gmsk_video.grc)
      
      [Report file](https://github.com/pintuiitbhi/wireless-communications/blob/master/GMSK%20modulation/GMSK%20MODULATION%0D%0AAND.pdf)
      
@@ -42,3 +44,4 @@ This repository contaions **simulations** and **reports** related to **wirelss s
    - [FM, PM, Uniform Quantization, Sampling](https://github.com/pintuiitbhi/wireless-communications/blob/master/Assignments/simulations_02/simulations.rar)
 
 
+> I like to thank @Rudrashish Pal, @Sharad Roy, @Siddharth Jain for their contributions in some of the simulations and projects listed above
