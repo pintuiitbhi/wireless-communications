@@ -35,6 +35,10 @@ This repository contaions **simulations** and **reports** related to **wirelss s
      
    - [Circular Antenna Design](https://github.com/pintuiitbhi/wireless-communications/blob/master/Circular%20Antenna%20Design.pdf)
     
-
+   - [Digital Signal Processing](https://github.com/pintuiitbhi/wireless-communications/tree/master/DSP)
+   
+   - [Amplitude Modulations](https://github.com/pintuiitbhi/wireless-communications/tree/master/Assignments/simulations_01)
+   
+   - [FM, PM, Uniform Quantization, Sampling](https://github.com/pintuiitbhi/wireless-communications/blob/master/Assignments/simulations_02/simulations.rar)
 
 
