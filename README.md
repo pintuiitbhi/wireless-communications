@@ -10,12 +10,17 @@ This repository contaions **simulations** and **reports** related to **signal pr
 
 
    - [Sampling Theorem , PAM, Eye Diagram](https://github.com/pintuiitbhi/wireless-communications/blob/master/sampling%26PAM/sampling.grc)
+   
      [Pulse Generation using Python](https://github.com/pintuiitbhi/wireless-communications/blob/master/sampling%26PAM/pf.py)
+     
      [Report file](https://github.com/pintuiitbhi/wireless-communications/blob/master/sampling%26PAM/sampling.grc)
       
    - [BASK Modulation using GNUradio](https://github.com/pintuiitbhi/wireless-communications/blob/master/BASK%20mod/bask_generation.grc)
+   
      [Low Pass Filter using GNUradio Python Block](https://github.com/pintuiitbhi/wireless-communications/blob/master/BASK%20mod/lowpass.grc)
+     
      [Rectifier using GNUradio Python Block](https://github.com/pintuiitbhi/wireless-communications/blob/master/BASK%20mod/full_rectifier.grc)
+     
      [Report file](https://github.com/pintuiitbhi/wireless-communications/blob/master/BASK%20mod/BASK%20Modulation.pdf)
     
 
