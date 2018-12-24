@@ -46,6 +46,6 @@ This repository contaions **simulations** and **reports** related to **wirelss s
 
 > I like to thank **Rudrashish Pal , Sharad Roy, Siddharth Jain** for their contributions in some of the simulations and projects listed above.
 
-1. Rudrashish Pal (Btech Electrical Engineering Student)
-2. Sharad Roy     (Btech Electrical Engineering Student) 
-3. Siddharth Jain (Btech Electrical Engineering Student)
+1. Rudrashish Pal (Btech 3rd Electrical Engineering Student)
+2. Sharad Roy     (Btech 3rd Electrical Engineering Student) 
+3. Siddharth Jain (Btech 3rd Electrical Engineering Student)
